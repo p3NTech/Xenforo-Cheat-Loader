@@ -289,8 +289,8 @@ namespace Loader
         {
             WebClient wc = new WebClient();
             System.IO.Directory.CreateDirectory("C:\\Windows\\poghack");
-            wc.Headers.Add("User-Agent", "mjgd1e8foac1rrgfirv29yb3ipivzv9a");
-            wc.DownloadFileAsync(new Uri($"{adress}/REexwlYHpkcTgs24DRpA2t90FNosfegB7iuJ9454Hh.dll"), @"C:\Windows\poghack\REexwlYHpkcTgs24DRpA2t90FNosfegB7iuJ9454Hh.dll");
+            wc.Headers.Add("User-Agent", "your user agent here");
+            wc.DownloadFileAsync(new Uri($"{adress}/dll link.dll"), @"C:\Windows\_paste\cheat.dll");
             var runningProcs = from proc in Process.GetProcesses(".") orderby proc.Id select proc;
             if (runningProcs.Count(p => p.ProcessName.Contains("csgo")) > 0)
             {
