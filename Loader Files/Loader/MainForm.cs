@@ -19,7 +19,7 @@ namespace Loader
 {
     public partial class mainForm : Form
     {
-        string adress = "https://drown.pw/forums/"; // ur forum link
+        string adress = "https://your.domain/forums/"; // ur forum link
         public mainForm()
         {
             InitializeComponent();
