@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K325TP5)
 # Xenforo-Cheat-Loader
 cheat loader meant to be used with xenforo
 
