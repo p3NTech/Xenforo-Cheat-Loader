@@ -27,7 +27,7 @@ Upload info.php
 
 --- Loader files
 
-If you are using .htaccess to require a user agent for your dll, include that in main.cs and form1.cs in the DownloadFileAsync headers.
+If you are using .htaccess to require a user agent for your dll, include that in mainform.cs in the DownloadFileAsync headers.
 
 Change the address string to your forum link
 
