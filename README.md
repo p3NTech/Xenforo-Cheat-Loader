@@ -1,5 +1,8 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K325TP5)
 # Xenforo-Cheat-Loader
+
+
+###I WILL NOT BE PROVIDING SUPPORT FOR THIS ANYMORE, OPEN AN ISSUE ON THE REPO AND WAIT FOR PEOPLE TO RESPOND.
 cheat loader meant to be used with xenforo
 
 # Tutorial
